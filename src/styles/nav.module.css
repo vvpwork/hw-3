@@ -1,0 +1,21 @@
+.navList {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 40%;
+  list-style: none;
+}
+
+.active {
+  color: red;
+}
+
+.link {
+  text-decoration: none;
+  font: 600 25px sans-serif;
+  color: grey;
+}
+
+.link:hover {
+  color: red;
+}

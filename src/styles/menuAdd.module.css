@@ -1,0 +1,21 @@
+.form {
+  max-width: 400px;
+  /* display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start; */
+}
+
+.form span {
+  display: block;
+  margin-top: 10px;
+}
+
+.form > button {
+  margin-top: 20px;
+}
+
+.form input,
+textarea {
+  display: inline-block;
+  width: 250px;
+}
