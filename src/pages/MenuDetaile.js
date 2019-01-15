@@ -19,7 +19,6 @@ export default class MenuDetaile extends Component {
       },
     } = this.props;
 
-    console.log(id);
     getMenuItemById(id).then(item =>
       this.setState({
         itemMenu: item,

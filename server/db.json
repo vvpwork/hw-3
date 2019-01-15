@@ -126,62 +126,6 @@
         "Легкий соевый соус",
         "Кунжутное масло"
       ]
-    },
-    {
-      "name": "Ред",
-      "description": "раоурау лалурлрл  уллаур",
-      "image": "https://rud.ua/uploads/recipe/5b32471f57172.jpg",
-      "category": "main course",
-      "ingredients": [
-        "тесто",
-        "томаты"
-      ],
-      "price": "123",
-      "id": 9
-    },
-    {
-      "name": "",
-      "description": "",
-      "image": "",
-      "category": "",
-      "ingredients": [
-        ""
-      ],
-      "price": "",
-      "id": 10
-    },
-    {
-      "name": "",
-      "description": "",
-      "image": "",
-      "category": "",
-      "ingredients": [
-        ""
-      ],
-      "price": "",
-      "id": 11
-    },
-    {
-      "name": "",
-      "description": "",
-      "image": "",
-      "category": "",
-      "ingredients": [
-        ""
-      ],
-      "price": "",
-      "id": 12
-    },
-    {
-      "name": "dwdwdwd",
-      "description": "",
-      "image": "",
-      "category": "",
-      "ingredients": [
-        ""
-      ],
-      "price": "",
-      "id": 13
     }
   ],
   "categories": [
